@@ -42,6 +42,7 @@ header {
     height: 69px;
     border-bottom: 1px solid seashell;
     justify-content: space-between;
+    background-color: black;
 }
 
 header img {
@@ -65,7 +66,6 @@ nav span {
 #mission {
   height: 700px;
   background-image: url("../images/img-mission-background.jpg");
-  padding-top: 70px;
 }
 
 #mission .image-content {
